@@ -3,7 +3,7 @@
 
 - - -
 
-## 데이터 사이언티스트 커리큘럼
+## 데이터 사이언스 커리큘럼
 > 제가 학습했거나 인터넷에서 추천한 강의를 모아서 난이도 별로 정리하였습니다. 계속해서 업데이트 중이며 고급 단게는 아직 접근하지 못한 영역이라 바라만 보고 있습니다.
 
 
@@ -86,7 +86,9 @@
 - (Lecture / English) [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science?recoOrder=15&utm_medium=email&utm_source=recommendations&utm_campaign=recommendationsEmail~recs_email_2016_10_23_17%3A58) from Coursera
 - (Lecture / English) [Data Visualization from Coursera](https://www.coursera.org/learn/datavisualization) from Coursera
 - (Lecture / English) [Data Management and Visualization](https://www.coursera.org/learn/data-visualization#syllabus) from Coursera
-
+- (Lecture / Korean) [허민석님 유튜브 자료](https://www.youtube.com/user/TheEasyoung/playlists)
+- (Lecture / Korean) [오늘의 코드](https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg) by [Joeun Park](https://github.com/corazzon)
+  - 동영상을 접하고 감탄을 연발한 유튜브 영상으로 Kaggle 프로젝트를 아주 친절하고 상세하고 쉽게 설명하고 있음(감동의 눈물)
 #### 3) 인공지능 및 머신러닝
 - (Text Book / Korean) [패턴인식 / 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788970859040)
   - 한글로 된 머신러닝/인공지능 책 중에서 추천을 많이 받은 교재로 머신러닝과 신경망의 기초가 되는 이론을 한글로 학습하기에 유용함
@@ -96,6 +98,9 @@
   - 수학이 많이 나오지는 않지만 확률과 통계, 미적분 등을 알아야 배울 수 있으며, 한번에 이해하기에는 난이도가 있는 강의
 - (Lecture / Korean) [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2017_K0201/info) from K-MOOC
   - 카이스트 오헤연 교수님의 강의로 머신러닝과 신경망 알고리즘에 대해서 배울 수 있으며 수학적인 설명이 많지만 기초 수준의 강의이기 때문에 깊이 있는 부분이 나오면 이해하기 어려움
+- (lecture / Korean) [테리의 딥러닝 토크](https://www.youtube.com/user/TerryTaewoongUm/playlists) by Terry Um from Youtube
+  - 현재 캐나다 워털루 대학원에서 박사과정이신 엄태웅님이 만드신 강의자료입니다!
+  - 친근한 설명으로 더 쉽게 이해할 수 있습니다.
 - (Lecture / English) [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng from Coursera
   - 설명이 필요 없는 명강의
 
