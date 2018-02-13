@@ -1,4 +1,5 @@
-# Road of Data Scientist : Curriculum
+# 데이터 사이언스 커리큘럼(Data Science Curriculum)
+## Road of Data Scientist
 > Ver. 10 Feb, 2018
 
 - - -

@@ -1,4 +1,5 @@
-# Road of Data Scientist : Blogs
+# 데이터 사이언스 블로그(Data Science  Blogs)
+## Road of Data Scientist
 > Ver. 10 Feb, 2018
 
 - - -
